@@ -1,0 +1,1 @@
+Model trained with cropped light-curves.
